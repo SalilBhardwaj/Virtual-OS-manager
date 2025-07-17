@@ -3,7 +3,7 @@ Operating Systems project on virtual OS Manager
 
 Title Page
 •	Project Title: Virtual OS Manager
-•	Ashok Mundepi / Team Members – Taniya, Anshika Chauhan, Salil Bhardwaj
+•	Salil Bhardwaj / Team Members – Taniya, Anshika Chauhan, Ashok Mundepi
 •	Graphic Era Hill University, Department of Computer Science and Technology.
 •	To - Preeti Badhani Mam
 ________________________________________
